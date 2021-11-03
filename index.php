@@ -1,5 +1,5 @@
 <?php
-require __DIR__ . '/partials/Classes.php';
+require __DIR__ . '/classes/Movie.php';
 
 $movies = [
   "bladeRunner2049" => new Movie (
